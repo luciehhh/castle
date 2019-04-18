@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Abbaye de la Bussière",
+    "place": "LA BUSSIÈRE-SUR-OUCHE",
+    "price": "225,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Anne de Bretagne",
+    "place": "LA PLAINE SUR MER",
+    "price": "72,50",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Assiette Champenoise",
+    "place": "TINQUEUX",
+    "price": "185,50",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Au Cœur du Village Hôtel & Spa",
+    "place": "LA CLUSAZ",
+    "price": "435,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Auberge des Templiers",
+    "place": "BOISMORAND",
+    "price": "112,20",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Auberge du Jeu de Paume",
+    "place": "CHANTILLY",
+    "price": "263,50",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Baumanière Hôtel & Spa",
+    "place": "LES BAUX-DE-PROVENCE",
+    "price": "225,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Brittany & Spa",
+    "place": "ROSCOFF",
+    "price": "167,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Cap d’Antibes Beach Hotel",
+    "place": "CAP D’ANTIBES",
+    "price": "294,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Castel Clara Thalasso & Spa",
+    "place": "BANGOR (BELLE-ILE-EN-MER)",
+    "price": "140,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Cazaudehore « La Forestière »",
+    "place": "SAINT-GERMAIN-EN-LAYE",
+    "price": "151,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Château Cordeillan-Bages",
+    "place": "PAUILLAC",
+    "price": "170,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Château de Bagnols",
+    "place": "BAGNOLS",
+    "price": "199,20",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Château de Berne",
+    "place": "FLAYOSC",
+    "price": "281,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Château de Codignat",
+    "place": "BORT-L’ETANG",
+    "price": "136,00",
+    "type": "Hôtel + Restaurant"
+  },
+  {
+    "name": "Château de Courcelles",
+    "place": "COURCELLES-SUR-VESLE",
+    "price": "205,00",
+    "type": "Hôtel + Restaurant"
+  }
+]
